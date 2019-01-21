@@ -1,8 +1,13 @@
 PyLogger - A simple Keylogger which is written on Python. It will send all the keystrokes of the victim to your E-mail address. Feel free to play with its code.
+
 BASIC REQUIREMENTS: 
+`
 Python 3 : You can download from this link (https://www.python.org/downloads/).
+
 STEPS: 
+
 ▁ ▂ ▄ ▅ ▆ ▇ █ Ø₦ⱠɎ ₣ØⱤ ɆĐɄ₵₳₮łØ₦ ₱ɄⱤ₱Ø₴Ɇ₴ █ ▇ ▆ ▅ ▄ ▂ ▁
+
 
 1. Install Python and pip and set their path to your computer.
 2. Clone or download this PyLogger project to your desktop.
