@@ -2,7 +2,8 @@ PyLogger - A simple Keylogger which is written on Python. It will send all the k
 
 BASIC REQUIREMENTS: 
 `
-Python 3 : You can download from this link (https://www.python.org/downloads/).
+Python 3 :
+You can download from this link (https://www.python.org/downloads/).
 
 STEPS: 
 
@@ -19,6 +20,6 @@ STEPS:
 ▁ ▂ ▄ ▅ ▆ ▇ █ Ø₦ⱠɎ ₣ØⱤ ɆĐɄ₵₳₮łØ₦ ₱ɄⱤ₱Ø₴Ɇ₴ █ ▇ ▆ ▅ ▄ ▂ ▁
 ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____   ____
 
---> Coded by: Aravind Naveen(aravindmyd@gmail.com)
+--> Coded by: Λ尺ΛƔɪЛÐ ЛΛƔƐƐЛ(aravindmyd@gmail.com)
 --> Github: https://github.com/aravindmyd
 ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____   ____
